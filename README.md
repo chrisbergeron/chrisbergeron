@@ -6,7 +6,7 @@
 <a href="https://twitter.com/bergeron" target="blank">
   <img align="center" src="https://img.shields.io/twitter/follow/bergeron?color=1C9BE9&label=Twitter&logo=Twitter&logoColor=1C9BE9&style=for-the-badge" alt="Twitter Follow">
 </a>
-<a href="https://medium.com/@c_bergeron" target="blank">
+<a href="https://c-bergeron.medium.com/" target="blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@c_bergeron" />
 </a>
 <a href="https://www.linkedin.com/in/christopherbergeron1/" target="blank">
