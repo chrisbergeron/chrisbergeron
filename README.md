@@ -3,12 +3,12 @@
 
 <details>
   <summary>Summary</summary>
+  
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </details>
 
 <hr>
 <br>
-<center>
 <a href="https://twitter.com/bergeron" target="blank">
   <img align="center" src="https://img.shields.io/twitter/follow/bergeron?color=1C9BE9&label=Twitter&logo=Twitter&logoColor=1C9BE9&style=for-the-badge" alt="Twitter Follow">
 </a>
@@ -24,4 +24,3 @@
 <a href="https://fb.com/cbergeron" target="blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="cbergeron" />
 </a>
-</center>
