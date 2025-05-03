@@ -9,6 +9,9 @@ Technologist and Senior DevOps Architect and Consultant. Innovator, Engineer and
 
 <hr>
 <br>
+<a href="https://bsky.app/bergeron.social" target="blank">
+  <img align="center" src="https://img.shields.io/blueskyfollow/bergeron?color=1C9BE9&label=Bluesky&logo=Bluesky&logoColor=1C9BE9&style=for-the-badge" alt="Bluesky Follow">
+</a>
 <a href="https://twitter.com/bergeron" target="blank">
   <img align="center" src="https://img.shields.io/twitter/follow/bergeron?color=1C9BE9&label=Twitter&logo=Twitter&logoColor=1C9BE9&style=for-the-badge" alt="Twitter Follow">
 </a>
